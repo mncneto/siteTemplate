@@ -1,4 +1,5 @@
-@extends('layouts.app') @section('content')
+@extends('layouts.app') 
+@section('content')
 <div class="jumbotron" style="background:#87CEEB" tabindex="-1">
     <div class="container">
         <h1>Cabeçalho do Primeiro</h1>
